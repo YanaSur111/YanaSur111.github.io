@@ -1,0 +1,33 @@
+.footer-columns {
+      display: flex;
+    padding: 10px;
+    background-color: silver; }
+.footer-column {
+ background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+main {
+    padding: 10px;
+    background-color: silver;
+}
+.post {
+    background-color: white;
+    padding: 20px;
+    border-radius: 30px;
+    margin-bottom: 20px;
+    display: flex;
+}
+
+    .post img {
+  margin: 10px;
+    }
+.post-info {
+    color: grey;
+}
+body {
+  background-image: url("https://abrakadabra.fun/uploads/posts/2022-03/1648001711_1-abrakadabra-fun-p-serii-les-fon-3.jpg");
+  background-size: cover;
+ background-attachment: fixed;
+}
